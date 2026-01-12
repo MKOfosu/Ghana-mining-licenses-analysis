@@ -81,11 +81,11 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2025-01-03,SSML-O6 6/2025,Crystal Blood Enterprise,Small Scale Licence,Active License,Gold,Central Region,,2025,1,3
 2025-01-03,ML-5/245,Eagle Eye Mining Limited,Mining Lease,Active License,Granite,Eastern Region,,2025,1,3
 2025-01-03,RML-I-4/9,Cimpor Ghana Ltd,Restricted Mining Lease,Active License,Clay,Volta Region,Ho,2025,1,3
-2025-01-03,PL (G)-5/830,Huldah Minerals Ltd,Prospecting Licence,Active License,"., Gold",Eastern Region,Cape Coast,2025,1,3
-2025-01-03,PL (G)-5/830,Huldah Minerals Ltd,Prospecting Licence,Active License,"., Gold",Central Region,Cape Coast,2025,1,3
+2025-01-03,PL (G)-5/830,Huldah Minerals Ltd,Prospecting Licence,Active License,Gold,Eastern Region,Cape Coast,2025,1,3
+2025-01-03,PL (G)-5/830,Huldah Minerals Ltd,Prospecting Licence,Active License,Gold,Central Region,Cape Coast,2025,1,3
 2025-01-03,PL (G)-3/828,Ayowa Natural Resources & Agriculture Limited,Prospecting Licence,Active License,"., Diamonds, Gold",Central Region,,2025,1,3
 2025-01-03,SSML-O6 2/2025,Sorbet Investment Ghana Limited,Small Scale Licence,Active License,Gold,Central Region,,2025,1,3
-2025-01-03,PL (G)-3/843,Kunaga Group Of Limited Company,Prospecting Licence,Active License,"., Gold",Central Region,Cape Coast,2025,1,3
+2025-01-03,PL (G)-3/843,Kunaga Group Of Limited Company,Prospecting Licence,Active License,Gold,Central Region,Cape Coast,2025,1,3
 2025-01-03,SSML-T2 6/2025,Rio & Co Limited,Small Scale Licence,Active License,Gold,Western Region,,2025,1,3
 2025-01-03,RML(G)-5/37,Currency Mining Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,Koforidua,2025,1,3
 2025-01-03,RML(G)-5/36,Dynamic Consult,Restricted Mining Lease,Active License,Granite,Eastern Region,Koforidua,2025,1,3
@@ -614,7 +614,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-12-18,QL6/486,Northern Mines & Qurries Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2024,12,18
 2024-12-18,SSML-AS2 27/2024,Hancent Services,Small Scale Licence,Active License,Gold,Western Region,Aowin/Suaman,2024,12,18
 2024-12-18,MC-EG 23/2024,Awudu Issaka And Sons Ltd,Gold Export,Active License,Gold,Ashanti Region,,2024,12,18
-2024-12-18,PL (G)-6/827,Broomwood Mining Limited Company,Prospecting Licence,Active License,"., Gold",Ashanti Region,,2024,12,18
+2024-12-18,PL (G)-6/827,Broomwood Mining Limited Company,Prospecting Licence,Active License,Gold,Ashanti Region,,2024,12,18
 2024-12-18,SSML-T2 56/2024,Versatile Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2024,12,18
 2024-12-18,SSML-T2 59/2024,Goodness Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2024,12,18
 2024-12-18,SSML-T2 60/2024,Peaceful Home Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2024,12,18
@@ -675,7 +675,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-11-01,MLG-LAYER/8,Kala-Max Ltd,Mining Lease,Active License,Gold,Bono Region,Sunyani,2024,11,1
 2024-11-01,MLG-LAYER/10,Max-Talinga Ltd,Mining Lease,Active License,Gold,Bono Region,Sunyani,2024,11,1
 2024-10-31,SSML-K7 1/2024,2K Peprah Mining Ltd,Small Scale Licence,Active License,Gold,Ahafo Region,,2024,10,31
-2024-10-28,PL (G)-LAYER/827,Shining Star Resources Limited,Prospecting Licence,Active License,"., Gold",Eastern Region,Koforidua,2024,10,28
+2024-10-28,PL (G)-LAYER/827,Shining Star Resources Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2024,10,28
 2024-10-28,SSMP-NIM-GH/1854,1999 Century Mining Ent,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2024,10,28
 2024-10-28,SSML-O6 20/2024,Free Well Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2024,10,28
 2024-10-27,xxx,Asor Sika Mining (Training),Prospecting Licence,Under Review,"Lithium, Gold",Eastern Region,Koforidua,2024,10,27
@@ -701,7 +701,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-10-08,SSML-AS2 25/2024,Scoop In Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2024,10,8
 2024-10-08,SSML-B11 7/2024,Peace Mining And Trading Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,,2024,10,8
 2024-10-03,SSML-BT9 16/2024,Yang Dan Biih Limited Company,Small Scale Licence,Active License,Gold,Upper East Region,,2024,10,3
-2024-10-03,SSML-BT9 17/2024,Yang Dan Biih Limited Company.,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,,2024,10,3
+2024-10-03,SSML-BT9 17/2024,Yang Dan Biih Limited Company.,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,,2024,10,3
 2024-10-03,SSML-T2 35/2024,Adjoebia Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2024,10,3
 2024-10-03,SSML-T2 45/2024,Confidence Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2024,10,3
 2024-10-03,SSML-T2 42/2024,Tekyi Miresu Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2024,10,3
@@ -772,7 +772,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-09-04,SSML-T2 23/2024,Energy And Resources Company Limited,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2024,9,4
 2024-09-04,SSML-T2 25/2024,Energy And Resources Company Limited,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2024,9,4
 2024-09-03,PL5/3 (Kenbert Ntronang),Newmont Golden Ridge Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2024,9,3
-2024-08-21,PL (G)-5/825,Afritrax Minerals Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,,2024,8,21
+2024-08-21,PL (G)-5/825,Afritrax Minerals Limited,Prospecting Licence,Active License,Gold,Eastern Region,,2024,8,21
 2024-08-21,SSML-BT9 14/2024,Great Agolle Ltd,Small Scale Licence,Active License,Gold,Upper East Region,,2024,8,21
 2024-08-21,MC-EG 10/2024,New Modern World Limited Company,Gold Export,Active License,Gold,Greater Accra Region,,2024,8,21
 2024-08-16,QL6/528,Bodukwan Quarry Limited Company,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2024,8,16
@@ -780,7 +780,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-08-16,RML-QL-3/297,Adeshie Mba Ltd,Restricted Mining Lease,Active License,Sand/ Gravel,Central Region,Cape Coast,2024,8,16
 2024-08-16,SSML-O6 8/2024,Steadfast Plus Mining Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Amansie West,2024,8,16
 2024-08-16,PL (G)-3/823,Multi Lead Limited,Prospecting Licence,Active License,Lithium,Central Region,Cape Coast,2024,8,16
-2024-08-16,ML-2/234,Betterland Ghana Limited,Mining Lease,Under Review,"Gold, .",Western Region,,2024,8,16
+2024-08-16,ML-2/234,Betterland Ghana Limited,Mining Lease,Under Review,Gold,Western Region,,2024,8,16
 2024-08-16,RML-N25-5/102,Justmoh Construction Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,,2024,8,16
 2024-08-16,SSML-AS2 11/2024,Hamz Courage Mining,Small Scale Licence,Active License,Gold,Western Region,,2024,8,16
 2024-08-16,SSML-AS2 10/2024,Deswud Mining,Small Scale Licence,Active License,Gold,Western Region,,2024,8,16
@@ -937,10 +937,10 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-02-02,MC-EG 11/2024,Nova Mines Ltd,Gold Export,Active License,Gold,Central Region,,2024,2,2
 2024-01-26,SSMP-NIM-6/1846,Michael Asare Small Scale Mining,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2024,1,26
 2024-01-26,SSMP/9/374,Razan Mining,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2024,1,26
-2024-01-26,SSML-T2 4/2024,Amankwaah Mining Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Western Region,Mpohor/Wassa East,2024,1,26
-2024-01-26,SSML-T2 6/2024,Amino Point Mining Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Western Region,Mpohor/Wassa East,2024,1,26
+2024-01-26,SSML-T2 4/2024,Amankwaah Mining Ltd,Small Scale Licence,Active License,Gold and Diamond,Western Region,Mpohor/Wassa East,2024,1,26
+2024-01-26,SSML-T2 6/2024,Amino Point Mining Ltd,Small Scale Licence,Active License,Gold and Diamond,Western Region,Mpohor/Wassa East,2024,1,26
 2024-01-26,RL-3/64 (Kruwa Assin),John Attah Mining Company Limited,Mining Lease,Active License,Gold,Central Region,Assin South,2024,1,26
-2024-01-26,PL-5/817,Shining Star Resources Limited,Prospecting Licence,Active License,"., Gold",Eastern Region,Koforidua,2024,1,26
+2024-01-26,PL-5/817,Shining Star Resources Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2024,1,26
 2024-01-26,SSML-BT9 5/2024,Zer Mines,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2024,1,26
 2024-01-26,PL-5/815,Lamens Investments Africa Limited,Prospecting Licence,Active License,Gold,Eastern Region,East Akim Municipal,2024,1,26
 2024-01-26,SSML-AK5 6/2024,Orkenjoj Enterprise,Small Scale Licence,Active License,Gold,Eastern Region,,2024,1,26
@@ -956,7 +956,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-01-26,RML-QL-1/290,Jac-Kuw Company Limited,Restricted Mining Lease,Active License,Sand/ Gravel,Greater Accra Region,Cape Coast,2024,1,26
 2024-01-26,RML-QL-1/290,Jac-Kuw Company Limited,Restricted Mining Lease,Active License,Sand/ Gravel,Central Region,Cape Coast,2024,1,26
 2024-01-26,SSML-T2 2/2024,Samnadeb Enterprise,Small Scale Licence,Active License,Gold,Western Region,Prestea Huni Valley,2024,1,26
-2024-01-26,PL-5/816,Northwest Drilling Ghana Limited,Prospecting Licence,Active License,"., Gold",Eastern Region,,2024,1,26
+2024-01-26,PL-5/816,Northwest Drilling Ghana Limited,Prospecting Licence,Active License,Gold,Eastern Region,,2024,1,26
 2024-01-26,SSML-AK5 5/2024,Stanchris Mining Group Limited,Small Scale Licence,Active License,Gold,Eastern Region,,2024,1,26
 2024-01-25,SSML-AK5 3/2024,Ayowa Natural Resources & Agriculture Limited,Small Scale Licence,Active License,Gold,Eastern Region,,2024,1,25
 2024-01-25,SSML-AK5 2/2024,Jakib Mining Limited Company,Small Scale Licence,Active License,Gold,Eastern Region,,2024,1,25
@@ -966,7 +966,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2024-01-19,PL-LAYER/811,Ghana Manganese Company Limited,Prospecting Licence,Active License,"., Manganese",Savannah Region,,2024,1,19
 2024-01-19,PL-LAYER/812,Ghana Manganese Company Limited,Prospecting Licence,Active License,Manganese,Savannah Region,Damango,2024,1,19
 2024-01-18,RML-N25-5/103,Thames Construction Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,Koforidua,2024,1,18
-2024-01-12,PL-I-2/20,Sdim Ghana Mining Consulting Services Ltd,Prospecting Licence,Active License,"., Gold",Western Region,,2024,1,12
+2024-01-12,PL-I-2/20,Sdim Ghana Mining Consulting Services Ltd,Prospecting Licence,Active License,Gold,Western Region,,2024,1,12
 2024-01-05,MC-EG 9/2024,Goldline Mining Ghana Limited,Gold Export,Active License,Gold,Ashanti Region,,2024,1,5
 2024-01-05,PL-LAYER/813,Sdim Ghana Mining Consulting Services Ltd,Prospecting Licence,Active License,Gold,Bono Region,,2024,1,5
 2024-01-05,PL-LAYER/813,Sdim Ghana Mining Consulting Services Ltd,Prospecting Licence,Active License,Gold,Bono East Region,,2024,1,5
@@ -1040,9 +1040,9 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-11-28,SSMP-NIM-6/1844,Rashkon Company Ltd,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2023,11,28
 2023-11-28,PL-3/818,Benviko Company Limited,Prospecting Licence,Active License,Gold,Central Region,Cape Coast,2023,11,28
 2023-11-28,PL-6/808,C.A.F.N Company Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Kumasi,2023,11,28
-2023-11-28,ML-2/240,Elite Minerals Ghana Limited,Mining Lease,Active License,"., Gold",Western Region,,2023,11,28
+2023-11-28,ML-2/240,Elite Minerals Ghana Limited,Mining Lease,Active License,Gold,Western Region,,2023,11,28
 2023-11-24,PL7/182,King Award Ghana Limited,Prospecting Licence,Active License,Gold,Bono Region,Sunyani,2023,11,24
-2023-11-24,PL2/572,Shiloh Ghana Limited,Prospecting Licence,Active License,"Diamonds, Gold",Western Region,Wassa Amenfi East,2023,11,24
+2023-11-24,PL2/572,Shiloh Ghana Limited,Prospecting Licence,Active License,Gold and Diamond,Western Region,Wassa Amenfi East,2023,11,24
 2023-11-24,RL3/29,W.D. Mining Company Limited.,Prospecting Licence,Active License,Gold,Western Region,Wassa Amenfi Central,2023,11,24
 2023-11-17,RL2/159,Hopthorn Company Limited,Prospecting Licence,Active License,Gold,Western Region,Sekondi Takoradi,2023,11,17
 2023-11-17,QL2/583,Adom Jkd Quarry Limited,Restricted Mining Lease,Active License,Granite,Western Region,Sekondi Takoradi,2023,11,17
@@ -1061,7 +1061,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-11-15,SSMP-NIM-5/1842,Asempanaye Mining Group,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,11,15
 2023-11-15,RML-3/60,Emak Engineering Limited,Restricted Mining Lease,Active License,Feldspar,Central Region,Ajumako/Enyan/Essiam,2023,11,15
 2023-11-15,MC.SSMP/ER/656,Makopa Enterprise,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,11,15
-2023-11-15,PL-2/805,Hawanah Resources Limited,Prospecting Licence,Active License,"Gold, .",Western Region,,2023,11,15
+2023-11-15,PL-2/805,Hawanah Resources Limited,Prospecting Licence,Active License,Gold,Western Region,,2023,11,15
 2023-11-15,SSML-AS2 37/2023,Sunrise Minerals Partners Ltd,Small Scale Licence,Active License,Gold,Western Region,,2023,11,15
 2023-11-09,PL-N-3/181,Green Metals Resources Limited,Prospecting Licence,Active License,"Gold, Diamonds, Lithium",Central Region,Cape Coast,2023,11,9
 2023-11-09,PL-I-3/15,Green Metals Resources Limited,Prospecting Licence,Under Review,"., Feldspar, Mica, Columbite-Tantalite, ., Lithium, Kaolin, Tantalum",Central Region,Cape Coast,2023,11,9
@@ -1069,7 +1069,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-11-08,SSMP-NIM-3/1841,Adri Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2023,11,8
 2023-11-08,SSMP-NIM-3/1840,Dodoli Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2023,11,8
 2023-11-08,SSMP-NIM-3/1839,Fatom Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2023,11,8
-2023-11-08,PL-2/807,Kinga Ghana Ltd,Prospecting Licence,Active License,"., Gold",Western Region,Sekondi Takoradi,2023,11,8
+2023-11-08,PL-2/807,Kinga Ghana Ltd,Prospecting Licence,Active License,Gold,Western Region,Sekondi Takoradi,2023,11,8
 2023-11-08,SSML-AS2 34/2023,Novo Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2023,11,8
 2023-11-08,SSML-AS2 36/2023,Pony Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2023,11,8
 2023-11-08,SSML-AS2 35/2023,Prime Piem Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2023,11,8
@@ -1089,24 +1089,24 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-10-20,QL1/1211,One-Day Gravel And Sand Winning Enterprise,Restricted Mining Lease,Active License,Sand/ Gravel,Central Region,Accra,2023,10,20
 2023-10-20,QL3/448,Nyame Rehwe Enterprise,Restricted Mining Lease,Active License,Sand,Central Region,Gomoa East,2023,10,20
 2023-10-20,ML3/239,Barari Dv Ghana Limited,Mining Lease,Active License,"., Lithium, Columbite-Tantalite, Feldspar, .",Central Region,Cape Coast,2023,10,20
-2023-10-20,PL12/804,Teco Mineral Ltd,Prospecting Licence,Active License,"., Gold",Bono Region,Ahafo Goaso,2023,10,20
-2023-10-20,PL12/804,Teco Mineral Ltd,Prospecting Licence,Active License,"., Gold",Ahafo Region,Ahafo Goaso,2023,10,20
-2023-10-20,PL2/803,Bodukwan Holding Company Limited,Prospecting Licence,Active License,"., Gold",Western North Region,Sefwi Wiawso,2023,10,20
-2023-10-20,PL2/803,Bodukwan Holding Company Limited,Prospecting Licence,Active License,"., Gold",Western Region,Sefwi Wiawso,2023,10,20
-2023-10-20,PL6/802,Bodukwan Holding Company Limited,Prospecting Licence,Active License,"., Gold",Ashanti Region,Kumasi,2023,10,20
+2023-10-20,PL12/804,Teco Mineral Ltd,Prospecting Licence,Active License,Gold,Bono Region,Ahafo Goaso,2023,10,20
+2023-10-20,PL12/804,Teco Mineral Ltd,Prospecting Licence,Active License,Gold,Ahafo Region,Ahafo Goaso,2023,10,20
+2023-10-20,PL2/803,Bodukwan Holding Company Limited,Prospecting Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2023,10,20
+2023-10-20,PL2/803,Bodukwan Holding Company Limited,Prospecting Licence,Active License,Gold,Western Region,Sefwi Wiawso,2023,10,20
+2023-10-20,PL6/802,Bodukwan Holding Company Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Kumasi,2023,10,20
 2023-10-20,MC/SSMP/2/2480,Fyodor Energy Limited,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2023,10,20
 2023-10-12,RML-N-4/180,Q3 Company Limited,Restricted Mining Lease,Active License,Granite,Volta Region,,2023,10,12
-2023-10-02,ML6/238,Sam And Gyan Limited,Mining Lease,Active License,"., Gold",Ashanti Region,,2023,10,2
+2023-10-02,ML6/238,Sam And Gyan Limited,Mining Lease,Active License,Gold,Ashanti Region,,2023,10,2
 2023-09-20,SSML-B11 6/2023,Brimt Mines Enterprise,Small Scale Licence,Active License,Gold,Ahafo Region,,2023,9,20
 2023-09-20,SSML-AS2 31/2023,Tmc Mining Ltd,Small Scale Licence,Active License,Gold,Western Region,,2023,9,20
 2023-09-20,MC-EG 16/2024,Elite Minerals Ghana Limited,Gold Export,Active License,Gold,,,2023,9,20
 2023-09-14,RML-N-2/178,Yellow Gold Limited,Prospecting Licence,Active License,Gold,Western Region,Nzema East,2023,9,14
 2023-08-31,PL7/177,Nyamebekyere Tumi Minerals Limited,Prospecting Licence,Active License,"Gold Ore, Gold",Ahafo Region,Ahafo Goaso,2023,8,31
 2023-08-31,PL7/177,Nyamebekyere Tumi Minerals Limited,Prospecting Licence,Active License,"Gold Ore, Gold",Bono Region,Ahafo Goaso,2023,8,31
-2023-08-31,RL-10/144,Multi Lead Limited,Reconnaissance Licence,Active License,"Gold, .",Upper West Region,,2023,8,31
-2023-08-31,RL-10/141,Multi Lead Limited,Reconnaissance Licence,Active License,"Gold, .",Upper West Region,,2023,8,31
-2023-08-31,RL-10/143,Waikan Mining Limited,Reconnaissance Licence,Active License,"Gold, .",Upper West Region,,2023,8,31
-2023-08-31,RL-10/142,Waikan Mining Limited,Reconnaissance Licence,Active License,"Gold, .",Upper West Region,,2023,8,31
+2023-08-31,RL-10/144,Multi Lead Limited,Reconnaissance Licence,Active License,Gold,Upper West Region,,2023,8,31
+2023-08-31,RL-10/141,Multi Lead Limited,Reconnaissance Licence,Active License,Gold,Upper West Region,,2023,8,31
+2023-08-31,RL-10/143,Waikan Mining Limited,Reconnaissance Licence,Active License,Gold,Upper West Region,,2023,8,31
+2023-08-31,RL-10/142,Waikan Mining Limited,Reconnaissance Licence,Active License,Gold,Upper West Region,,2023,8,31
 2023-08-29,SSMP-NIM-GH/1836,Abrempon Mining Limited,Small Scale Licence,Active License,Gold,Western Region,Sefwi Wiawso,2023,8,29
 2023-08-29,SSMP-NIM-GH/1836,Abrempon Mining Limited,Small Scale Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2023,8,29
 2023-08-29,SSMP-NIM-3/1837,God Feet Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2023,8,29
@@ -1116,7 +1116,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-08-29,SSML-O6 12/2023,Generation Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,,2023,8,29
 2023-08-11,RML-N-2/171,Eric Kweku Ofori Ventures,Restricted Mining Lease,Active License,Granite,Western Region,Sekondi Takoradi,2023,8,11
 2023-08-11,SSML-AS2 18/2023,Sam-Mary Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2023,8,11
-2023-08-11,PL.7/97/Vol.2,Yh Company Limited (Formerly Vintage Mining Company Limited),Prospecting Licence,Active License,"., Gold",Ahafo Region,Ahafo Goaso,2023,8,11
+2023-08-11,PL.7/97/Vol.2,Yh Company Limited (Formerly Vintage Mining Company Limited),Prospecting Licence,Active License,Gold,Ahafo Region,Ahafo Goaso,2023,8,11
 2023-08-11,SSML-AS2 28/2023,S. K. Wiredu Enterprise,Small Scale Licence,Active License,Gold,Western North Region,,2023,8,11
 2023-08-11,SSML-AS2 25/2023,Sikapa Gold Mining Enterprise,Small Scale Licence,Active License,Gold,Western North Region,,2023,8,11
 2023-08-11,SSML-AS2 22/2023,T L G Gold Mining Enterprise,Small Scale Licence,Active License,Gold,Western North Region,,2023,8,11
@@ -1142,20 +1142,20 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-07-04,MC./SSMP/5/2208,Jalis Resources Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,7,4
 2023-07-04,MC./SSMP/5/2203,Frasbiz Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,7,4
 2023-07-04,MC./SSMP/APL-0-6-632,Golden Rich Mining Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2023,7,4
-2023-06-27,PL6/796,High Street Limited,Prospecting Licence,Active License,"Gold, .",Ashanti Region,Kumasi,2023,6,27
-2023-06-22,SSML-O6 5/2023,Abuoso Nnipankyeremia Community Mining Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2023,6,22
-2023-06-22,SSML-O6 6/2023,Abuoso Nnipankyeremia Community Mining Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Western North Region,Sefwi Wiawso,2023,6,22
+2023-06-27,PL6/796,High Street Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Kumasi,2023,6,27
+2023-06-22,SSML-O6 5/2023,Abuoso Nnipankyeremia Community Mining Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2023,6,22
+2023-06-22,SSML-O6 6/2023,Abuoso Nnipankyeremia Community Mining Company Limited,Small Scale Licence,Active License,Gold and Diamond,Western North Region,Sefwi Wiawso,2023,6,22
 2023-06-21,PL3/791,Geomin Minerals Company Limited,Prospecting Licence,Active License,"., Lithium",Central Region,,2023,6,21
 2023-06-21,PL3/792,Rock Drill Limited,Prospecting Licence,Active License,"Lithium, .",Central Region,,2023,6,21
 2023-06-21,PL3/795,Rock Drill Limited,Prospecting Licence,Active License,"., Lithium",Central Region,,2023,6,21
-2023-06-21,ML6/232,Fj Minerals Limited,Mining Lease,Active License,"., Gold",Ashanti Region,Kumasi,2023,6,21
-2023-06-21,PL3/794,Starjet Oil & Gas Limited,Prospecting Licence,Active License,"., Gold",Central Region,,2023,6,21
-2023-06-21,PL3/793,Starjet Oil & Gas Limited,Prospecting Licence,Active License,"., Gold",Central Region,,2023,6,21
+2023-06-21,ML6/232,Fj Minerals Limited,Mining Lease,Active License,Gold,Ashanti Region,Kumasi,2023,6,21
+2023-06-21,PL3/794,Starjet Oil & Gas Limited,Prospecting Licence,Active License,Gold,Central Region,,2023,6,21
+2023-06-21,PL3/793,Starjet Oil & Gas Limited,Prospecting Licence,Active License,Gold,Central Region,,2023,6,21
 2023-06-12,RML-N25-GH/96,Northern Mines & Quarries Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,,2023,6,12
 2023-06-12,RML-N25-6/97,Northern Mines & Quarries Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,,2023,6,12
 2023-06-12,RML-N-6/169,Northern Mines & Quarries Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,,2023,6,12
 2023-06-12,PLI-5/12,Sec Minerals Ltd,Prospecting Licence,Active License,Gold,Eastern Region,,2023,6,12
-2023-06-09,PL2/554,Opam Stone Limited,Prospecting Licence,Active License,"., Gold",Western Region,Bodi,2023,6,9
+2023-06-09,PL2/554,Opam Stone Limited,Prospecting Licence,Active License,Gold,Western Region,Bodi,2023,6,9
 2023-06-01,QL.5/392,Ibn'S Quarry,Restricted Mining Lease,Active License,Granite,Eastern Region,Akwapim South,2023,6,1
 2023-06-01,QL.5/393,Tiger Quarry,Restricted Mining Lease,Active License,Granite,Eastern Region,Akwapim South,2023,6,1
 2023-06-01,SSML-AS2 14/2023,Lateef Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2023,6,1
@@ -1165,7 +1165,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-06-01,MC./SSMP/5/2204,Hopeseed Mining Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,6,1
 2023-06-01,MC./SSMP/5/2207,Unshakable Rock Mining Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,6,1
 2023-06-01,SSML-W10 1/2023,Tegyaabunyeni Limited,Small Scale Licence,Active License,Gold,Upper West Region,,2023,6,1
-2023-06-01,PL2/621,Trucking And Construction Limited,Prospecting Licence,Active License,"., Gold",Western North Region,Sefwi Wiawso,2023,6,1
+2023-06-01,PL2/621,Trucking And Construction Limited,Prospecting Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2023,6,1
 2023-06-01,RML-N-5/172,Petrocam Ghana Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,Cape Coast,2023,6,1
 2023-06-01,RML-N-5/172,Petrocam Ghana Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Cape Coast,2023,6,1
 2023-06-01,RML-N-5/172,Petrocam Ghana Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2023,6,1
@@ -1182,8 +1182,8 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-05-23,SSML-AS2 10/2023,Hamz Precious Nuggets,Small Scale Licence,Active License,Gold,Western Region,,2023,5,23
 2023-05-23,SSML-B11 5/2023,Hamzwud Enterprise,Small Scale Licence,Active License,Gold,Ahafo Region,Ahafo Goaso,2023,5,23
 2023-05-23,MC/SSMP/6/3126,Hamzwud Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2023,5,23
-2023-05-23,MC/SSMP/12/224,Harpy'S Golden Resources,Small Scale Licence,Active License,"Gold, Diamonds",Ahafo Region,Ahafo Goaso,2023,5,23
-2023-05-23,MC/SSMP/ER/946,Amenam Mining Group,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2023,5,23
+2023-05-23,MC/SSMP/12/224,Harpy'S Golden Resources,Small Scale Licence,Active License,Gold and Diamond,Ahafo Region,Ahafo Goaso,2023,5,23
+2023-05-23,MC/SSMP/ER/946,Amenam Mining Group,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2023,5,23
 2023-05-18,RML-N-5/166,Vip Stone Crushers Ltd,Restricted Mining Lease,Active License,Granite,Eastern Region,Nsawam Municipal,2023,5,18
 2023-05-18,RML-QL-5/281,"Larbi, Samuel",Restricted Mining Lease,Active License,Sand/ Gravel,Eastern Region,,2023,5,18
 2023-05-18,PL5/787,Long Shine Mining Ghana Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2023,5,18
@@ -1215,35 +1215,35 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2023-03-30,SSML-AS2 6/2023,Nanakwaski Mining Enterprise,Small Scale Licence,Active License,Gold,Western Region,,2023,3,30
 2023-03-30,RML-N-1/165,Bawl Stone Quarry Limited Company,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2023,3,30
 2023-03-30,RML-N-1/165,Bawl Stone Quarry Limited Company,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Cape Coast,2023,3,30
-2023-03-30,PL6/782,Think Energy Limited,Prospecting Licence,Active License,"Gold, .",Ashanti Region,,2023,3,30
-2023-03-30,PL6/784,Lamens Investments Africa Limited,Prospecting Licence,Active License,"Gold, .",Ashanti Region,,2023,3,30
-2023-03-30,PL5/790,Feed Dem Company Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,,2023,3,30
-2023-03-30,PL5/783,Lamens Investments Africa Limited,Prospecting Licence,Active License,"Gold, .",Greater Accra Region,,2023,3,30
-2023-03-30,PL5/783,Lamens Investments Africa Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,,2023,3,30
-2023-03-30,PL5/788,Feed Dem Company Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,,2023,3,30
+2023-03-30,PL6/782,Think Energy Limited,Prospecting Licence,Active License,Gold,Ashanti Region,,2023,3,30
+2023-03-30,PL6/784,Lamens Investments Africa Limited,Prospecting Licence,Active License,Gold,Ashanti Region,,2023,3,30
+2023-03-30,PL5/790,Feed Dem Company Limited,Prospecting Licence,Active License,Gold,Eastern Region,,2023,3,30
+2023-03-30,PL5/783,Lamens Investments Africa Limited,Prospecting Licence,Active License,Gold,Greater Accra Region,,2023,3,30
+2023-03-30,PL5/783,Lamens Investments Africa Limited,Prospecting Licence,Active License,Gold,Eastern Region,,2023,3,30
+2023-03-30,PL5/788,Feed Dem Company Limited,Prospecting Licence,Active License,Gold,Eastern Region,,2023,3,30
 2023-03-30,SSML-AK5 3/2023,Zona Oeste Company Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2023,3,30
-2023-03-30,PL2/647,Egoli Gold Mining Company Limited,Prospecting Licence,Active License,"., Gold",Western Region,Prestea Huni Valley,2023,3,30
+2023-03-30,PL2/647,Egoli Gold Mining Company Limited,Prospecting Licence,Active License,Gold,Western Region,Prestea Huni Valley,2023,3,30
 2023-03-23,ML6/228,Hapic Mining Limited,Mining Lease,Active License,Gold,Ashanti Region,,2023,3,23
 2023-03-20,MLG-GH/2,Test Company,Mining Lease,Active License,Gold,Bono East Region,Techiman,2023,3,20
 2023-03-16,SSML-AS2 3/2023,Pinkaas Mining Company Ltd,Small Scale Licence,Active License,Gold,Western North Region,,2023,3,16
 2023-03-16,QL.5/155,Nendor Engineering & Facilities Management Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,Koforidua,2023,3,16
-2023-03-15,PL2/655,Optec Limited,Prospecting Licence,Active License,"Gold, .",Western Region,Wassa Amenfi West,2023,3,15
+2023-03-15,PL2/655,Optec Limited,Prospecting Licence,Active License,Gold,Western Region,Wassa Amenfi West,2023,3,15
 2023-03-15,ML2/56,Optec Limited,Mining Lease,Active License,"Gold Ore, .",Western Region,,2023,3,15
 2023-03-15,ML2/55,Cape North Limited,Mining Lease,Active License,"., Gold Ore",Western Region,,2023,3,15
 2023-03-15,ML2/57,Tera Nayo Limited,Mining Lease,Active License,"Gold Ore, .",Western North Region,Sefwi Wiawso,2023,3,15
 2023-03-03,SSML-T2 1/2023,Ernest Mining Company Limited,Small Scale Licence,Active License,Gold,Western Region,,2023,3,3
 2023-03-03,APL-M-100,Unipower Mining Company Limited,Mining Lease,Active License,Gold,Western North Region,Sefwi Wiawso,2023,3,3
 2023-03-03,APL-M-101,Clean-Jobs Resources Limited,Mining Lease,Active License,Gold,Western North Region,Sefwi Wiawso,2023,3,3
-2023-03-03,PL5/785,Whitepearl Enterprise Ltd,Prospecting Licence,Active License,"Gold, .",Eastern Region,Koforidua,2023,3,3
-2023-02-28,PL6/779,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Ashanti Region,,2023,2,28
-2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Central Region,Koforidua,2023,2,28
-2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Greater Accra Region,Koforidua,2023,2,28
-2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,Koforidua,2023,2,28
-2023-02-28,PL3/780,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Central Region,,2023,2,28
-2023-02-28,PL3/780,Dams Legacy Engineering Limited,Prospecting Licence,Active License,"Gold, .",Greater Accra Region,,2023,2,28
+2023-03-03,PL5/785,Whitepearl Enterprise Ltd,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2023,3,3
+2023-02-28,PL6/779,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Ashanti Region,,2023,2,28
+2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Central Region,Koforidua,2023,2,28
+2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Greater Accra Region,Koforidua,2023,2,28
+2023-02-28,PL5/781,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2023,2,28
+2023-02-28,PL3/780,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Central Region,,2023,2,28
+2023-02-28,PL3/780,Dams Legacy Engineering Limited,Prospecting Licence,Active License,Gold,Greater Accra Region,,2023,2,28
 2023-02-28,ML5/223,Gold Empire Resources Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2023,2,28
 2023-02-16,RML-N-5/164,Klos And Hauls Ltd,Restricted Mining Lease,Active License,Limestone,Eastern Region,Koforidua,2023,2,16
-2023-02-16,MC/SSMP/AR/49,Konongo-Odumasi Co-Operative Small Scale Mining,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2023,2,16
+2023-02-16,MC/SSMP/AR/49,Konongo-Odumasi Co-Operative Small Scale Mining,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2023,2,16
 2023-02-08,QL.12/8,Jopa Mining Ent.,Restricted Mining Lease,Active License,Granite,Ahafo Region,Ahafo Goaso,2023,2,8
 2023-02-08,QL.12/8,Jopa Mining Ent.,Restricted Mining Lease,Active License,Granite,Brong Ahafo Region,Ahafo Goaso,2023,2,8
 2023-02-07,QL.6/535,Yaw Owusu & Sons Company Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Atwima Nwabiagya,2023,2,7
@@ -1272,7 +1272,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-12-31,MC-EG 23/2024,Danampco Company Limited,Gold Export,Active License,Gold,,,2022,12,31
 2022-12-30,MC-EG 23/2022,Ia Msquare Mining Limited,Gold Export,Active License,Gold,Greater Accra Region,,2022,12,30
 2022-12-30,MC-EG 16/2024,Legend Pine Ltd,Gold Export,Active License,Gold,,,2022,12,30
-2022-12-23,ML5/219,Ac Zenon Limited,Mining Lease,Active License,"., Gold",Eastern Region,Koforidua,2022,12,23
+2022-12-23,ML5/219,Ac Zenon Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2022,12,23
 2022-12-23,MC 2483,Goldstone Akrokeri Limited,Gold Export,Active License,Gold,Greater Accra Region,,2022,12,23
 2022-12-22,QL4/168,Continental Blue Investment Ghana Limited,Restricted Mining Lease,Active License,Clay,Eastern Region,Koforidua,2022,12,22
 2022-12-20,QL1/1256,Ivag Construction Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,,2022,12,20
@@ -1283,7 +1283,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-12-12,MC-EG 21/2022,Benkotec Group Limited,Gold Export,Active License,Gold,Greater Accra Region,,2022,12,12
 2022-12-12,MC-EG 14/2024,The Business & Business Choice Ltd,Gold Export,Active License,Gold,Greater Accra Region,,2022,12,12
 2022-12-09,PL2/689,Winpaga Resources Limited,Prospecting Licence,Active License,"Gold Ore, ., Gold",Western Region,Sekondi Takoradi,2022,12,9
-2022-12-09,PL.5/295,Gold Empire Res. Ltd,Prospecting Licence,Active License,"., Gold",Eastern Region,Koforidua,2022,12,9
+2022-12-09,PL.5/295,Gold Empire Res. Ltd,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2022,12,9
 2022-12-01,QL.6/577,Akosdwomo Company Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Adansi North,2022,12,1
 2022-11-23,QL6/314,Barekese Stone Quarry Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2022,11,23
 2022-11-23,QL6/315,Barekese Stone Quarry Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2022,11,23
@@ -1295,8 +1295,8 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-11-23,MC/SSMP/6/2990,Argon Minerals Ltd,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,11,23
 2022-11-23,SSML-O6 29/2022,Long Dragon Mines Limited,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,11,23
 2022-11-04,PL2/801,Tmc Mining Ltd,Prospecting Licence,Active License,Gold,Western Region,Wassa Amenfi Central,2022,11,4
-2022-11-04,PL6/506,Shining Star Resources Limited,Prospecting Licence,Active License,"., Gold",Ashanti Region,Kumasi,2022,11,4
-2022-11-04,PL6/505,Shining Star Resources Limited,Prospecting Licence,Active License,"., Gold",Ashanti Region,Kumasi,2022,11,4
+2022-11-04,PL6/506,Shining Star Resources Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Kumasi,2022,11,4
+2022-11-04,PL6/505,Shining Star Resources Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Kumasi,2022,11,4
 2022-10-04,QL.8/12,Logistics Support Services Limited,Restricted Mining Lease,Active License,Granite,North East Region,West Mamprusi,2022,10,4
 2022-10-04,QL.8/12,Logistics Support Services Limited,Restricted Mining Lease,Active License,Granite,Upper East Region,West Mamprusi,2022,10,4
 2022-10-04,QL.8/12,Logistics Support Services Limited,Restricted Mining Lease,Active License,Granite,Northern Region,West Mamprusi,2022,10,4
@@ -1317,7 +1317,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-08-22,QL3/455,Pilot Stone Quarry Company Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2022,8,22
 2022-08-10,QL.7/7,Kasap Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Cape Coast,2022,8,10
 2022-08-10,QL.7/7,Kasap Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2022,8,10
-2022-08-08,MC./SSMP/5/2472,Steadfast Plus Mining Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,8,8
+2022-08-08,MC./SSMP/5/2472,Steadfast Plus Mining Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,8,8
 2022-08-05,QL5/490,Nadeen Stone Quarry Limited,Restricted Mining Lease,Active License,Granite,Eastern Region,Nsawam Municipal,2022,8,5
 2022-08-05,QL5/490,Nadeen Stone Quarry Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Nsawam Municipal,2022,8,5
 2022-08-05,QL5/490,Nadeen Stone Quarry Limited,Restricted Mining Lease,Active License,Granite,Central Region,Nsawam Municipal,2022,8,5
@@ -1325,55 +1325,55 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-07-19,MC/SSMP/6/2429,Dew Of Grace,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,19
 2022-07-19,SSMP/6/3161,Pasoro Gold Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,19
 2022-07-19,MC/SSMP/6/3159,Pasoro Gold Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,19
-2022-07-19,SSMP/6/3152,Nemo Gold Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Atwima Nwabiagya,2022,7,19
+2022-07-19,SSMP/6/3152,Nemo Gold Enterprise,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Atwima Nwabiagya,2022,7,19
 2022-07-19,SSMP/6/3162,Nemo Gold Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,19
 2022-07-18,SSMP/6/2291,Berksgold,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,18
 2022-07-18,MC./SSMP/6/2410,Franfatt Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,18
 2022-07-18,MC./SSMP/3/1339,Royal Exploit Mining Co. Ltd.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,18
-2022-07-18,SSMP/9/290,Haw Mines,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,7,18
-2022-07-18,SSMP/9/312,Rahm Mines,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,7,18
+2022-07-18,SSMP/9/290,Haw Mines,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,18
+2022-07-18,SSMP/9/312,Rahm Mines,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,18
 2022-07-18,MC/SSMP/9/311,Nian Natural Resources,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2022,7,18
-2022-07-18,SSMP/9/326,Mahr Natural Resources,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,7,18
+2022-07-18,SSMP/9/326,Mahr Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,18
 2022-07-18,MC/SSMP/9/315,Ania Mines,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2022,7,18
 2022-07-18,MC/SSMP/6/3055,Wussah Plus Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Ahafo-Ano South,2022,7,18
-2022-07-18,MC./SSMP/9/317,Kian Natural Resources,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Talensi,2022,7,18
-2022-07-18,SSMP/9/333,Kian Natural Resources,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Bolgatanga,2022,7,18
-2022-07-18,MC./SSMP/ER/994,Naaduro Gold Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Atiwa,2022,7,18
-2022-07-18,MC/SSMP/9/323,Ania Mines,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Talensi,2022,7,18
-2022-07-18,SSMP/WR/487,Nyarsu Mining Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2022,7,18
-2022-07-18,SSMP/9/327,Zer Mines,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Talensi,2022,7,18
-2022-07-18,SSMP/CR/1354,Tephen Mining,Small Scale Licence,Active License,"Diamonds, Gold",Central Region,Cape Coast,2022,7,18
-2022-07-18,SSMP/9/331,Tasnim Resources,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Talensi,2022,7,18
-2022-07-18,SSMP/5/2216,Matsterl Ghana Limited,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Atiwa,2022,7,18
-2022-07-18,MC/SSMP/CR/914,Karikari & Yaw Ssafoa Mining Group,Small Scale Licence,Active License,"Diamonds, Gold",Central Region,Assin North,2022,7,18
+2022-07-18,MC./SSMP/9/317,Kian Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,7,18
+2022-07-18,SSMP/9/333,Kian Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,18
+2022-07-18,MC./SSMP/ER/994,Naaduro Gold Company Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,18
+2022-07-18,MC/SSMP/9/323,Ania Mines,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,7,18
+2022-07-18,SSMP/WR/487,Nyarsu Mining Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2022,7,18
+2022-07-18,SSMP/9/327,Zer Mines,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,7,18
+2022-07-18,SSMP/CR/1354,Tephen Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2022,7,18
+2022-07-18,SSMP/9/331,Tasnim Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,7,18
+2022-07-18,SSMP/5/2216,Matsterl Ghana Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,18
+2022-07-18,MC/SSMP/CR/914,Karikari & Yaw Ssafoa Mining Group,Small Scale Licence,Active License,Gold and Diamond,Central Region,Assin North,2022,7,18
 2022-07-13,SSMP-NIM-12/1821,Francis E.D Mining Services,Small Scale Licence,Active License,Gold,Ahafo Region,Ahafo Goaso,2022,7,13
 2022-07-13,MC./SSMP/6/2751,Samnabed Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,13
-2022-07-13,MC./SSMP/9/314,Aduku Natural Resources,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Bolgatanga,2022,7,13
-2022-07-13,MC./SSMP/CR/1236,Philus Mining,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Cape Coast,2022,7,13
+2022-07-13,MC./SSMP/9/314,Aduku Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,13
+2022-07-13,MC./SSMP/CR/1236,Philus Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2022,7,13
 2022-07-08,SSMP/5/2016,Wild Cat Resources,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,8
 2022-07-08,MC/SSMP/3/1394,John Gregory Mining Group,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,8
 2022-07-08,SSMP/5/2149,Ramco Rowgee Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,8
 2022-07-08,SSMP/5/1354,59 Street Mining Services,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,8
 2022-07-08,SSMP/9/296,Neo Natural Resources,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2022,7,8
 2022-07-08,MC/SSMP/5/2053,Neoman Resources,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,8
-2022-07-08,SSMP/5/2157,E.G Mensah,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Atiwa,2022,7,8
-2022-07-08,MC./SSMP/5/2153,Ramco Rowgee Limited,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Atiwa,2022,7,8
-2022-07-08,MC./SSMP/5/2138,E G Mensah Ventures,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Koforidua,2022,7,8
-2022-07-08,MC./SSMP/CR/1230,Annglad Mining,Small Scale Licence,Active License,"Diamonds, Gold",Central Region,Upper Denkyira West,2022,7,8
-2022-07-08,SSMP/9/297,Tsima Mining,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Bolgatanga,2022,7,8
-2022-07-08,MC./SSMP/AR/2113,Yaw First Ventures,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2022,7,8
-2022-07-08,SSMP/CR/891,Karikari & Ampong Mining Group,Small Scale Licence,Active License,"Diamonds, Gold",Central Region,Assin North,2022,7,8
+2022-07-08,SSMP/5/2157,E.G Mensah,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,8
+2022-07-08,MC./SSMP/5/2153,Ramco Rowgee Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,8
+2022-07-08,MC./SSMP/5/2138,E G Mensah Ventures,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,8
+2022-07-08,MC./SSMP/CR/1230,Annglad Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Upper Denkyira West,2022,7,8
+2022-07-08,SSMP/9/297,Tsima Mining,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,8
+2022-07-08,MC./SSMP/AR/2113,Yaw First Ventures,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2022,7,8
+2022-07-08,SSMP/CR/891,Karikari & Ampong Mining Group,Small Scale Licence,Active License,Gold and Diamond,Central Region,Assin North,2022,7,8
 2022-07-08,SSMP/WR/2355,Scottzvony Company Limited,Small Scale Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2022,7,8
 2022-07-08,SSMP/WR/2355,Scottzvony Company Limited,Small Scale Licence,Active License,Gold,Western Region,Sefwi Wiawso,2022,7,8
-2022-07-08,MC/SSMP/AR/939,K Kukom Ventures,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2022,7,8
-2022-07-08,MC./SSMP/5/2220,Flanima Enterprise,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Koforidua,2022,7,8
-2022-07-08,MC/SSMP/9/316,Ania Mines,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Bolgatanga,2022,7,8
-2022-07-08,MC./SSMP/5/2224,Bilefaara Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,7,8
+2022-07-08,MC/SSMP/AR/939,K Kukom Ventures,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2022,7,8
+2022-07-08,MC./SSMP/5/2220,Flanima Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,8
+2022-07-08,MC/SSMP/9/316,Ania Mines,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,8
+2022-07-08,MC./SSMP/5/2224,Bilefaara Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,8
 2022-07-07,QL.3/630,Q3 Company Limited,Restricted Mining Lease,Active License,Granite,Central Region,Mfantsiman Municipality,2022,7,7
-2022-07-07,SSML-T2 2/2022,Holy Success Inkoom,Small Scale Licence,Active License,"Gold, Diamonds",Western North Region,Sefwi Wiawso,2022,7,7
-2022-07-07,SSML-AK5 8/2022,Donjon Enterprise,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Fanteakwa,2022,7,7
-2022-07-07,SSML-CC 165/2022,Sien One Mining,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Cape Coast,2022,7,7
-2022-07-07,SSML-AK5 10/2022,Attaja Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,7,7
+2022-07-07,SSML-T2 2/2022,Holy Success Inkoom,Small Scale Licence,Active License,Gold and Diamond,Western North Region,Sefwi Wiawso,2022,7,7
+2022-07-07,SSML-AK5 8/2022,Donjon Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Fanteakwa,2022,7,7
+2022-07-07,SSML-CC 165/2022,Sien One Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2022,7,7
+2022-07-07,SSML-AK5 10/2022,Attaja Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,7
 2022-07-06,SSMP/5/1760,Open Job Mining,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,6
 2022-07-06,MC/SSMP/5/2137,Ramco Rowgee Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,6
 2022-07-06,MC/SSMP/5/2150,Eriant Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,6
@@ -1381,7 +1381,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-07-06,MC./SSMP/6/2248,Swanhill Min.& Const. Co. Ltd,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,6
 2022-07-06,MC./SSMP/5/2083,Rowgee Ghana Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,6
 2022-07-06,SSMP/3/1334,Sam-Matt Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,6
-2022-07-06,SSMP/3/1262,Amof Mining Ent.,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Upper Denkyira East,2022,7,6
+2022-07-06,SSMP/3/1262,Amof Mining Ent.,Small Scale Licence,Active License,Gold and Diamond,Central Region,Upper Denkyira East,2022,7,6
 2022-07-06,MC/SSMP/9/325,Tasnim Resources,Small Scale Licence,Active License,Gold,Upper East Region,Bolgatanga,2022,7,6
 2022-07-06,QL3/688,"Koranten Amoako, Kojo",Restricted Mining Lease,Active License,Sand,Ashanti Region,Agona East,2022,7,6
 2022-07-06,QL3/688,"Koranten Amoako, Kojo",Restricted Mining Lease,Active License,Sand,Central Region,Agona East,2022,7,6
@@ -1390,21 +1390,21 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-07-06,RML-N25-3/56,Q3 Company Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2022,7,6
 2022-07-06,QL.4/149,"Kojo, Nana",Restricted Mining Lease,Active License,Sand/ Gravel,Eastern Region,Ho West,2022,7,6
 2022-07-06,QL.4/149,"Kojo, Nana",Restricted Mining Lease,Active License,Sand/ Gravel,Volta Region,Ho West,2022,7,6
-2022-07-06,SSMP/AR/2022,There Is A Way Out Mining Enterprise,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Amansie South,2022,7,6
-2022-07-06,MC./SSMP/9/322,Pico Natural Resources,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,7,6
+2022-07-06,SSMP/AR/2022,There Is A Way Out Mining Enterprise,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Amansie South,2022,7,6
+2022-07-06,MC./SSMP/9/322,Pico Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,6
 2022-07-06,MC/SSMP/WR/1623,Adupri Goldfields Enterprise,Small Scale Licence,Active License,Gold,Western Region,Sefwi Wiawso,2022,7,6
 2022-07-06,MC/SSMP/WR/1623,Adupri Goldfields Enterprise,Small Scale Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2022,7,6
-2022-07-06,SSMP/ER/1300,Trickmond Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,7,6
-2022-07-06,SSMP/9/310,Pico Natural Resources,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Bolgatanga,2022,7,6
-2022-07-06,SSMP/5/1390,Joamfef Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Atiwa,2022,7,6
-2022-07-06,MC./SSMP/AR/2020,Broadway Mining Enterprise,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Amansie South,2022,7,6
-2022-07-06,SSMP/ER/1015,King Addo Mining Group,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,7,6
+2022-07-06,SSMP/ER/1300,Trickmond Company Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,6
+2022-07-06,SSMP/9/310,Pico Natural Resources,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,6
+2022-07-06,SSMP/5/1390,Joamfef Company Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,6
+2022-07-06,MC./SSMP/AR/2020,Broadway Mining Enterprise,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Amansie South,2022,7,6
+2022-07-06,SSMP/ER/1015,King Addo Mining Group,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,6
 2022-07-06,MC/SSMP/WR/334,Dobsy Engineering Works Limited,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,6
-2022-07-06,MC/SSMP/CR/1232,Yisitheo Mining,Small Scale Licence,Active License,"Diamonds, Gold",Central Region,Upper Denkyira West,2022,7,6
-2022-07-06,MC/SSMP/ER/1014,Bugus Mining Group,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Denkyembour,2022,7,6
-2022-07-06,SSMP/9/289 (Kalbeo),Razan Mining,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,7,6
-2022-07-06,MC/SSMP/CR/1037,Atia & Group,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Cape Coast,2022,7,6
-2022-07-06,MC/SSMP/5/2221,Dompreh Jones Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Fanteakwa,2022,7,6
+2022-07-06,MC/SSMP/CR/1232,Yisitheo Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Upper Denkyira West,2022,7,6
+2022-07-06,MC/SSMP/ER/1014,Bugus Mining Group,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Denkyembour,2022,7,6
+2022-07-06,SSMP/9/289 (Kalbeo),Razan Mining,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,7,6
+2022-07-06,MC/SSMP/CR/1037,Atia & Group,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2022,7,6
+2022-07-06,MC/SSMP/5/2221,Dompreh Jones Enterprise,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Fanteakwa,2022,7,6
 2022-07-06,QL5/470,Saviour Quarry,Restricted Mining Lease,Active License,Granite,Eastern Region,Nsawam Municipal,2022,7,6
 2022-07-06,xx,Mc Under Review,Restricted Mining Lease,Suspended,Sand/ Gravel,Volta Region,Ho West,2022,7,6
 2022-07-01,SSMP/6/2777,Dunamis Hub Limited,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,1
@@ -1414,28 +1414,28 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-07-01,SSMP/5/1362,K & Group Mining Company Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,1
 2022-07-01,MC/SSMP/5/2158,Eriant Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,1
 2022-07-01,SSMP/3/1286,Franha Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,1
-2022-07-01,SSMP/ER/993,Victory Mining Group,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Atiwa,2022,7,1
-2022-07-01,SSMP/AR/2105,5 Inhonesty Ghana Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Amansie West,2022,7,1
+2022-07-01,SSMP/ER/993,Victory Mining Group,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Atiwa,2022,7,1
+2022-07-01,SSMP/AR/2105,5 Inhonesty Ghana Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Amansie West,2022,7,1
 2022-07-01,SSMP/6/3153,Asakraka Gold Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2022,7,1
 2022-07-01,SSMP/5/2079,Part The Earth Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,1
-2022-07-01,MC./SSMP/CR/1248,Inkoomhen Mining,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Cape Coast,2022,7,1
+2022-07-01,MC./SSMP/CR/1248,Inkoomhen Mining,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2022,7,1
 2022-07-01,SSMP/CR/1245,Ladnney Mining,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,1
 2022-07-01,MC./SSMP/6/3052,Nakoge Ghana Limited,Small Scale Licence,Active License,Gold,Ashanti Region,Ahafo Ano North,2022,7,1
 2022-07-01,MC./SSMP/6/3160,Asakraka Gold Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Atwima Nwabiagya,2022,7,1
 2022-07-01,SSMP/5/1364,Kapenek Enterprise,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,7,1
-2022-07-01,SSMP/WR/411,Abubakari Kwapong And Group,Small Scale Licence,Active License,"Diamonds, Gold",Western Region,Prestea Huni Valley,2022,7,1
+2022-07-01,SSMP/WR/411,Abubakari Kwapong And Group,Small Scale Licence,Active License,Gold and Diamond,Western Region,Prestea Huni Valley,2022,7,1
 2022-07-01,SSMP/3/1292,Takyiford Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2022,7,1
 2022-07-01,SSMP/3/1251,Frankoeb Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Upper Denkyira West,2022,7,1
 2022-07-01,SSMP/5/2156,Nakoge Ghana Limited,Small Scale Licence,Active License,Gold,Eastern Region,Birim North,2022,7,1
-2022-07-01,SSMP/ER/759,Baba Sala Ventures,Small Scale Licence,Active License,"Gold, Diamonds",Eastern Region,Koforidua,2022,7,1
+2022-07-01,SSMP/ER/759,Baba Sala Ventures,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,7,1
 2022-06-27,SSMP/11/11,Mc Under Review,Small Scale Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2022,6,27
 2022-06-27,SSMP/11/11,Mc Under Review,Small Scale Licence,Active License,Gold,Western Region,Sefwi Wiawso,2022,6,27
 2022-06-15,QL3/684,Hao Xin Quarry Annex Limited,Restricted Mining Lease,Active License,Gravel,Central Region,Cape Coast,2022,6,15
 2022-05-27,PL5/289,Ry Goldfields Ltd.,Prospecting Licence,Active License,"Gold Ore, Gold",Eastern Region,Koforidua,2022,5,27
 2022-05-20,PL3/30/Vol.3,Asante Gold (Ghana) Limited (Formerly For Gognet Mining Company Limited),Mining Lease,Active License,Gold,Central Region,Cape Coast,2022,5,20
 2022-05-20,PL3/30/Vol.3,Asante Gold (Ghana) Limited (Formerly For Gognet Mining Company Limited),Mining Lease,Active License,Gold,Ashanti Region,Cape Coast,2022,5,20
-2022-05-19,ML2/47,Unipower Mining Company Limited,Mining Lease,Active License,"Gold, .",Western North Region,Sefwi Wiawso,2022,5,19
-2022-05-19,ML2/47,Unipower Mining Company Limited,Mining Lease,Active License,"Gold, .",Western Region,Sefwi Wiawso,2022,5,19
+2022-05-19,ML2/47,Unipower Mining Company Limited,Mining Lease,Active License,Gold,Western North Region,Sefwi Wiawso,2022,5,19
+2022-05-19,ML2/47,Unipower Mining Company Limited,Mining Lease,Active License,Gold,Western Region,Sefwi Wiawso,2022,5,19
 2022-05-19,QL6/568,Abuba Quarry Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2022,5,19
 2022-05-19,ML2/46,Unipower Mining Company Limited,Mining Lease,Active License,Gold,Western Region,Mpohor/Wassa East,2022,5,19
 2022-05-10,TL (TP) 1/22,Akim Oda Small Scale Association Ltd Test,Test Licence,Active License,Gold,Eastern Region,,2022,5,10
@@ -1445,14 +1445,14 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-04-14,QL6/549,Alex K. Tetteh Construction Works Limited,Restricted Mining Lease,Active License,Granite,Ashanti Region,Atwima Mponua,2022,4,14
 2022-04-08,QL.3/607,Jb Quarry Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2022,4,8
 2022-04-07,SSMP/5/2139,Lexmall Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,4,7
-2022-04-07,SSMP/9/340,Benabar Ghana Ltd.,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Talensi,2022,4,7
-2022-04-07,SSMP/9/341,Shiryu Ghana Ltd,Small Scale Licence,Active License,"Diamonds, Gold",Upper East Region,Talensi,2022,4,7
-2022-04-07,SSMP/9/339,Seiya Ghana Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Talensi,2022,4,7
-2022-04-07,SSMP/9/336,Benabar Ghana Ltd.,Small Scale Licence,Active License,"Gold, Diamonds",Upper East Region,Bolgatanga,2022,4,7
-2022-04-07,SSMP/2/2617,Gracila Mining Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Western Region,Wassa Amenfi East,2022,4,7
-2022-04-07,SSMP/6/2944,A And A Anasam Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Amansie Central,2022,4,7
-2022-04-07,MC/SSMP/5/2139,Lexmall Limited,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Koforidua,2022,4,7
-2022-04-07,SSMP/6/2946,Grape Mining Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2022,4,7
+2022-04-07,SSMP/9/340,Benabar Ghana Ltd.,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,4,7
+2022-04-07,SSMP/9/341,Shiryu Ghana Ltd,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,4,7
+2022-04-07,SSMP/9/339,Seiya Ghana Ltd,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Talensi,2022,4,7
+2022-04-07,SSMP/9/336,Benabar Ghana Ltd.,Small Scale Licence,Active License,Gold and Diamond,Upper East Region,Bolgatanga,2022,4,7
+2022-04-07,SSMP/2/2617,Gracila Mining Ltd,Small Scale Licence,Active License,Gold and Diamond,Western Region,Wassa Amenfi East,2022,4,7
+2022-04-07,SSMP/6/2944,A And A Anasam Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Amansie Central,2022,4,7
+2022-04-07,MC/SSMP/5/2139,Lexmall Limited,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2022,4,7
+2022-04-07,SSMP/6/2946,Grape Mining Ltd,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2022,4,7
 2022-04-05,QL16/4,Daa-Dingbe Limited,Restricted Mining Lease,Active License,Granite,Northern Region,Nalerigu,2022,4,5
 2022-04-05,QL16/4,Daa-Dingbe Limited,Restricted Mining Lease,Active License,Granite,North East Region,Nalerigu,2022,4,5
 2022-04-01,SSMP/5/2140,Pipi Yaw Ii Mining Ventures,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2022,4,1
@@ -1480,18 +1480,18 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2022-02-16,QL.2/653,Kam Associates Limited,Restricted Mining Lease,Active License,Granite,Western Region,Sekondi Takoradi,2022,2,16
 2021-12-29,MC7/SF8 (Awaso),Ghana Bauxite Company Limited,Mining Lease,Active License,Bauxite,Western Region,Bibiani/Anwiaso/Bekwai,2021,12,29
 2021-12-29,MC/SSMP/5/2217,The Pons Joy Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2021,12,29
-2021-12-23,ML2/48/VOL.2 (Banso),Gadriator Group Of Companies Limited,Mining Lease,Active License,"., Gold",Western Region,Nzema East,2021,12,23
+2021-12-23,ML2/48/VOL.2 (Banso),Gadriator Group Of Companies Limited,Mining Lease,Active License,Gold,Western Region,Nzema East,2021,12,23
 2021-12-23,ML2/51/VOL.2 (Betindsi),Zogok Gold Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2021,12,23
 2021-12-20,QL3/680,Unistrong Quarry Limited Company,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2021,12,20
 2021-12-08,SSMP-NIM-3/1673,Gator Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2021,12,8
-2021-12-08,SSMP/CR/1215,Exodus Plus (Ghana) Limited,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Cape Coast,2021,12,8
+2021-12-08,SSMP/CR/1215,Exodus Plus (Ghana) Limited,Small Scale Licence,Active License,Gold and Diamond,Central Region,Cape Coast,2021,12,8
 2021-12-02,SSMP-NIM-5/1618,Caray Mining Enterprise,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2021,12,2
-2021-12-02,SSMP/AR/786,Happines Mining Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2021,12,2
+2021-12-02,SSMP/AR/786,Happines Mining Enterprise,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2021,12,2
 2021-11-30,PL2/702,Arise Mining Company Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2021,11,30
 2021-11-15,PL3/106,Joy Transporters Limited,Prospecting Licence,Active License,"Columbite-Tantalite, Lithium, Gold",Central Region,Cape Coast,2021,11,15
 2021-10-13,QL1/552,Massey Stone (Gh) Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Accra,2021,10,13
 2021-10-13,QL1/552,Massey Stone (Gh) Limited,Restricted Mining Lease,Active License,Granite,Central Region,Accra,2021,10,13
-2021-09-16,PL5/269,Ac Zenon Limited,Prospecting Licence,Active License,"Gold, .",Eastern Region,Koforidua,2021,9,16
+2021-09-16,PL5/269,Ac Zenon Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2021,9,16
 2021-08-11,SSMP/6/2491,Typhoon Greenfield Development Ltd,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2021,8,11
 2021-08-11,PL5/252,Atk Mining Company Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2021,8,11
 2021-07-27,RL3/55,Barari Dv Ghana Limited,Prospecting Licence,Active License,"Feldspar, Columbite-Tantalite, Lithium",Central Region,Cape Coast,2021,7,27
@@ -1570,19 +1570,19 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-12-24,CR/1168,Evansbuk Mining Enterprise,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2020,12,24
 2020-12-24,AR/2184,Knows Mining Ventures,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,12,24
 2020-12-24,SSMP/3/1261,Euniwa Mining Ent.,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2020,12,24
-2020-12-24,SSMP/6/2708,Ad & A Co. Ltd,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2706,Kenboat Mining Ent,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2707,Benamp Mining Ent.,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2713,Adudanfed Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2704,Danampco Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2712,Asunafo Mining Community Ent,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2710,Interway Company Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2714,Emdia Projects Ghana Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2711,Francis E.D Mining Services,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2705,Jopa Mining Ent.,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/6/2709,Prestige Kel Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,24
-2020-12-24,SSMP/CR/639,Cecemas Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Central Region,Amansie Central,2020,12,24
-2020-12-24,SSMP/CR/639,Cecemas Enterprise,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Amansie Central,2020,12,24
+2020-12-24,SSMP/6/2708,Ad & A Co. Ltd,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2706,Kenboat Mining Ent,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2707,Benamp Mining Ent.,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2713,Adudanfed Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2704,Danampco Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2712,Asunafo Mining Community Ent,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2710,Interway Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2714,Emdia Projects Ghana Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2711,Francis E.D Mining Services,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2705,Jopa Mining Ent.,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/6/2709,Prestige Kel Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,24
+2020-12-24,SSMP/CR/639,Cecemas Enterprise,Small Scale Licence,Active License,Gold and Diamond,Central Region,Amansie Central,2020,12,24
+2020-12-24,SSMP/CR/639,Cecemas Enterprise,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Amansie Central,2020,12,24
 2020-12-24,QL3/638,Gonass Company Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2020,12,24
 2020-12-23,PL2/413,Asanko Gold Ghana Limited,Prospecting Licence,Active License,Gold,Western North Region,Sefwi Wiawso,2020,12,23
 2020-12-23,PL2/413,Asanko Gold Ghana Limited,Prospecting Licence,Active License,Gold,Western Region,Sefwi Wiawso,2020,12,23
@@ -1611,16 +1611,16 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-12-18,ML2/168,Transatlantic Logistics Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,12,18
 2020-12-18,MC/SSMP/6/2340,Jk Bonsu Ventures Ltd,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,12,18
 2020-12-17,SSMP-LAYER/1516,Kindness & Love Mining Ent.,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,12,17
-2020-12-17,PL2/573,Oleum (Ghana) Limited,Prospecting Licence,Under Review,"Gold, .",Brong Ahafo Region,Asunafo South,2020,12,17
+2020-12-17,PL2/573,Oleum (Ghana) Limited,Prospecting Licence,Under Review,Gold,Brong Ahafo Region,Asunafo South,2020,12,17
 2020-12-17,QL6/548,Richstar Mining And Construction Ltd.,Restricted Mining Lease,Active License,Granite,Ashanti Region,Kumasi,2020,12,17
-2020-12-16,1019,Winbe Mining Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Western North Region,Sefwi Wiawso,2020,12,16
-2020-12-16,SSMP/6/2245,Winbe Mining Company Limited,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,12,16
+2020-12-16,1019,Winbe Mining Company Limited,Small Scale Licence,Active License,Gold and Diamond,Western North Region,Sefwi Wiawso,2020,12,16
+2020-12-16,SSMP/6/2245,Winbe Mining Company Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,16
 2020-12-14,ML2/164,Transatlantic Logistics Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,12,14
 2020-12-13,SSMP/2/2390,Codemine Ltd,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2020,12,13
 2020-12-10,SSMP/AR/2047,Ben Arthur 2000 Enterprise,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,12,10
 2020-12-09,SSMP/6/2459,Nkuguo Mining Co Ltd,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,12,9
-2020-12-09,SSMP/6/2453,Holborn Investments Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,9
-2020-12-09,SSMP/6/2451,K.S Gold Coast Potfolio Limited,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,12,9
+2020-12-09,SSMP/6/2453,Holborn Investments Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,9
+2020-12-09,SSMP/6/2451,K.S Gold Coast Potfolio Limited,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,12,9
 2020-11-26,SSMP/5/1347,Abacus Abibiman Min. Co. Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,11,26
 2020-11-26,SSMP/5/1352,Fasab Midland Co. Ltd,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,11,26
 2020-11-25,SSMP/WR/338,T. T. Brothers Mining Group,Small Scale Licence,Active License,Gold,Western Region,Sekondi Takoradi,2020,11,25
@@ -1628,13 +1628,13 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-11-25,SSMP/6/2308,Sanctuary Mining Ventures,Small Scale Licence,Active License,Gold,Ashanti Region,Kumasi,2020,11,25
 2020-11-25,QL2/594,"Issifu, Ossuman",Restricted Mining Lease,Active License,Sand,Western Region,Sekondi Takoradi,2020,11,25
 2020-11-25,QL3/625,"Senyo, Godwin",Restricted Mining Lease,Active License,Sand/ Gravel,Central Region,Cape Coast,2020,11,25
-2020-11-25,MC/SSMP/ER/236,Waterhousegold Ltd,Small Scale Licence,Active License,"Diamonds, Gold",Eastern Region,Koforidua,2020,11,25
+2020-11-25,MC/SSMP/ER/236,Waterhousegold Ltd,Small Scale Licence,Active License,Gold and Diamond,Eastern Region,Koforidua,2020,11,25
 2020-11-25,QL.2/384,"Kweku, Suleiman",Restricted Mining Lease,Active License,Granite,Western Region,Sekondi Takoradi,2020,11,25
 2020-11-20,PL5/241,Barak Discoverers Company Limited.,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2020,11,20
 2020-11-20,PL9/54,Geo-Tech Minerals Res. Ex. Ltd,Prospecting Licence,Active License,Gold,Upper East Region,Bolgatanga,2020,11,20
-2020-11-20,PL7/184,King Award Ghana Limited,Prospecting Licence,Active License,"., Gold",Bono Region,Sunyani,2020,11,20
-2020-11-20,PL7/185,King Award Ghana Limited,Prospecting Licence,Active License,"., Gold",Bono Region,Sunyani,2020,11,20
-2020-11-20,PL7/181,King Award Ghana Limited,Prospecting Licence,Active License,"., Gold",Bono Region,Sunyani,2020,11,20
+2020-11-20,PL7/184,King Award Ghana Limited,Prospecting Licence,Active License,Gold,Bono Region,Sunyani,2020,11,20
+2020-11-20,PL7/185,King Award Ghana Limited,Prospecting Licence,Active License,Gold,Bono Region,Sunyani,2020,11,20
+2020-11-20,PL7/181,King Award Ghana Limited,Prospecting Licence,Active License,Gold,Bono Region,Sunyani,2020,11,20
 2020-11-20,PL5/272,Pure Caratage Limited,Prospecting Licence,Active License,Gold,Eastern Region,Koforidua,2020,11,20
 2020-11-20,QL3/612,"Kutorke, Fred Kwasi",Restricted Mining Lease,Active License,Sand,Central Region,Cape Coast,2020,11,20
 2020-11-20,QL1/1077,"Eshun, Priscilla",Restricted Mining Lease,Active License,Sand/ Gravel,Greater Accra Region,Dangme West(Shai-Osudoku),2020,11,20
@@ -1652,8 +1652,8 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-10-07,ER/831,Glorious End Ent.,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,10,7
 2020-10-07,NR/3,Dakrupe Kamara Mining Grp,Small Scale Licence,Active License,Gold,Savannah Region,Damango,2020,10,7
 2020-10-07,MC-GH/97,Quantum Gold Limited,Gold Export,Active License,Gold,Greater Accra Region,Accra Metropolitan,2020,10,7
-2020-10-07,SSMP/NR/1,Dakrupe Small Scale Mining Group,Small Scale Licence,Active License,"Diamonds, Gold",Savannah Region,Bole,2020,10,7
-2020-10-07,SSMP/NR/1,Dakrupe Small Scale Mining Group,Small Scale Licence,Active License,"Diamonds, Gold",Northern Region,Bole,2020,10,7
+2020-10-07,SSMP/NR/1,Dakrupe Small Scale Mining Group,Small Scale Licence,Active License,Gold and Diamond,Savannah Region,Bole,2020,10,7
+2020-10-07,SSMP/NR/1,Dakrupe Small Scale Mining Group,Small Scale Licence,Active License,Gold and Diamond,Northern Region,Bole,2020,10,7
 2020-09-22,PL2/545,Koantwi Mining Company Limited,Mining Lease,Active License,"Gold Ore, Gold",Western Region,Sekondi Takoradi,2020,9,22
 2020-09-21,ML2/17,Koantwi Mining Company Limited,Mining Lease,Active License,Gold,Western North Region,Cape Coast,2020,9,21
 2020-09-21,ML2/17,Koantwi Mining Company Limited,Mining Lease,Active License,Gold,Central Region,Cape Coast,2020,9,21
@@ -1661,14 +1661,14 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-09-17,QL1/993,Flavour Company Ghana Limited,Restricted Mining Lease,Active License,Sand,Greater Accra Region,Accra,2020,9,17
 2020-09-16,SSMP/15/2,"Null, Tinga Wenchi Wenchi Cooperative",Small Scale Licence,Active License,Gold,Savannah Region,Damango,2020,9,16
 2020-09-16,SSMP/ER/1198,Kemida Group Mining Limited,Small Scale Licence,Suspended,Gold,Eastern Region,Atiwa,2020,9,16
-2020-09-16,SSMP/9/277,Hajj-One Resources Limited,Small Scale Licence,Active License,"Diamonds, Gold",Upper West Region,Wa East,2020,9,16
-2020-09-16,SSMP/9/276,Wakeedah Resources Limited,Small Scale Licence,Active License,"Diamonds, Gold",Upper West Region,Wa East,2020,9,16
+2020-09-16,SSMP/9/277,Hajj-One Resources Limited,Small Scale Licence,Active License,Gold and Diamond,Upper West Region,Wa East,2020,9,16
+2020-09-16,SSMP/9/276,Wakeedah Resources Limited,Small Scale Licence,Active License,Gold and Diamond,Upper West Region,Wa East,2020,9,16
 2020-09-08,SSMP-NIM-5/1608,Mc Under Review,Small Scale Licence,Suspended,Gold,Eastern Region,Koforidua,2020,9,8
 2020-08-30,AR/369,Bright Arrow Mining,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2020,8,30
 2020-08-25,ML5/19,Ghana Consolidated Diamonds Company Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2020,8,25
 2020-08-25,LVD 8285B/2013,Golden Star (Wassa) Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,8,25
-2020-07-30,SSMP/WR/2308,El-Mmakus Ventures,Small Scale Licence,Active License,"Gold, Diamonds",Western Region,Sekondi Takoradi,2020,7,30
-2020-07-30,SSMP/AR/2106,Mc Under Review,Small Scale Licence,Under Review,"Gold, Diamonds",Ashanti Region,Amansie West,2020,7,30
+2020-07-30,SSMP/WR/2308,El-Mmakus Ventures,Small Scale Licence,Active License,Gold and Diamond,Western Region,Sekondi Takoradi,2020,7,30
+2020-07-30,SSMP/AR/2106,Mc Under Review,Small Scale Licence,Under Review,Gold and Diamond,Ashanti Region,Amansie West,2020,7,30
 2020-06-30,ER/942,Korl Ahwenease Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,6,30
 2020-06-26,WR/1583,Mc Under Review,Small Scale Licence,Under Review,Gold,Western Region,Sekondi Takoradi,2020,6,26
 2020-06-26,ER/650,Kocbad Ventures,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,6,26
@@ -1678,7 +1678,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-06-22,QL3/609,Haozhentu International Mining (Ghana) Limited,Restricted Mining Lease,Active License,Granite,Central Region,Cape Coast,2020,6,22
 2020-06-22,QL1/1186,Theonshyra Ventures,Restricted Mining Lease,Active License,Sand,Greater Accra Region,Koforidua,2020,6,22
 2020-06-22,QL1/1186,Theonshyra Ventures,Restricted Mining Lease,Active License,Sand,Eastern Region,Koforidua,2020,6,22
-2020-05-26,SSMP/AR/2000,Rickwat Logistics,Small Scale Licence,Active License,"Gold, Diamonds",Ashanti Region,Kumasi,2020,5,26
+2020-05-26,SSMP/AR/2000,Rickwat Logistics,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,5,26
 2020-05-26,SSMP/AHR/14,Mc Under Review,Small Scale Licence,Under Review,Gold,Eastern Region,Koforidua,2020,5,26
 2020-05-26,ER/1235,Nayattah Company Limited,Small Scale Licence,Active License,Gold,Eastern Region,Koforidua,2020,5,26
 2020-05-22,AR/237,Tlg Trans Limited Company,Small Scale Licence,Active License,Gold,Central Region,Cape Coast,2020,5,22
@@ -1696,10 +1696,10 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-03-22,PL2/546,Koantwi Mining Company Limited,Mining Lease,Active License,Gold,Central Region,Cape Coast,2020,3,22
 2020-03-20,ML-GH/242,Blue Gold Bogoso Prestea(Formly Fgr Prestea Bogoso),Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,3,20
 2020-03-20,ML-2/243,Blue Gold Bogoso Prestea(Formly Fgr Prestea Bogoso),Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,3,20
-2020-03-04,SSMP/AR/436,Nyame Apam Ent,Small Scale Licence,Active License,"Diamonds, Gold",Ashanti Region,Kumasi,2020,3,4
+2020-03-04,SSMP/AR/436,Nyame Apam Ent,Small Scale Licence,Active License,Gold and Diamond,Ashanti Region,Kumasi,2020,3,4
 2020-02-20,ML6/2,Ghana-Russia-Cis Limited,Mining Lease,Active License,Gold,Brong Ahafo Region,Kumasi,2020,2,20
 2020-02-20,ML6/2,Ghana-Russia-Cis Limited,Mining Lease,Active License,Gold,Ashanti Region,Kumasi,2020,2,20
-2020-02-20,PL6/458,Monex Mining Company Limited,Prospecting Licence,Active License,"., Gold",Ashanti Region,Adansi South,2020,2,20
+2020-02-20,PL6/458,Monex Mining Company Limited,Prospecting Licence,Active License,Gold,Ashanti Region,Adansi South,2020,2,20
 2020-02-17,QL.4/133,Infinity Den Enterprise,Restricted Mining Lease,Active License,Sand,Eastern Region,Koforidua,2020,2,17
 2020-02-17,QL3/404,"Yaw, Asarkon Manu",Restricted Mining Lease,Active License,Sand/ Gravel,Central Region,Cape Coast,2020,2,17
 2020-02-17,PL2/538,Mc Under Review,Mining Lease,Under Review,Gold,Western Region,Sekondi Takoradi,2020,2,17
@@ -1714,7 +1714,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2020-01-15,RL2/177,Perseus Mining Gh Ltd: Adio-Mabas Ghana Limited,Prospecting Licence,Active License,"Diamonds, ., Gold",Western Region,Wassa Amenfi East,2020,1,15
 2020-01-14,PL5/4/Vol.5,Bugudon 2 Company Limited,Mining Lease,Active License,Gold,Eastern Region,West Akim Municipal,2020,1,14
 2020-01-13,PL2/35/VOL2,Takoradi Gold Gh. Ltd,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2020,1,13
-2020-01-13,PL2/631,Bonza Fields Ghana Limited,Prospecting Licence,Active License,"., Gold",Western Region,Sekondi Takoradi,2020,1,13
+2020-01-13,PL2/631,Bonza Fields Ghana Limited,Prospecting Licence,Active License,Gold,Western Region,Sekondi Takoradi,2020,1,13
 2020-01-13,PL6/87/VOL2,Goldstone Akrokeri Limited,Mining Lease,Active License,Gold,Ashanti Region,Kumasi,2020,1,13
 2020-01-06,ML2/6,Onex International Company Limited,Mining Lease,Active License,Gold,Western Region,Sefwi Wiawso,2020,1,6
 2020-01-06,ML2/6,Onex International Company Limited,Mining Lease,Active License,Gold,Western North Region,Sefwi Wiawso,2020,1,6
@@ -1743,11 +1743,11 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2019-05-14,RL8/36,Emmaland Resources Limited,Prospecting Licence,Active License,Gold,Upper East Region,Bawku Municipal,2019,5,14
 2019-05-11,SSMP/ER/236,Mc Under Review,Small Scale Licence,Under Review,Gold,Eastern Region,Koforidua,2019,5,11
 2019-05-02,RL2/165,Gan He Mining Resources Development Company Ltd,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2019,5,2
-2019-04-30,PL2/192/Vol.5 (Ebi Teleku Bokazo),Adamus Resources Limited,Mining Lease,Active License,"., Gold",Western Region,Nzema East,2019,4,30
+2019-04-30,PL2/192/Vol.5 (Ebi Teleku Bokazo),Adamus Resources Limited,Mining Lease,Active License,Gold,Western Region,Nzema East,2019,4,30
 2019-04-30,QL1/614,Greenstone Quarry Ghana Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Dangme West(Shai-Osudoku),2019,4,30
 2019-04-30,PL2/192/VOL.5,Adamus Resources Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2019,4,30
 2019-04-30,PL2/163,Adamus Resources Limited,Mining Lease,Active License,Gold,Western Region,Sekondi Takoradi,2019,4,30
-2019-04-30,PL2/57,Adamus Resources Limited,Mining Lease,Active License,"Gold, Diamonds",Western Region,Sekondi Takoradi,2019,4,30
+2019-04-30,PL2/57,Adamus Resources Limited,Mining Lease,Active License,Gold and Diamond,Western Region,Sekondi Takoradi,2019,4,30
 2019-04-30,QL.1/106,Williss Enterprise,Restricted Mining Lease,Active License,Gravel,Greater Accra Region,Accra,2019,4,30
 2019-04-30,QL.1/106,Williss Enterprise,Restricted Mining Lease,Active License,Gravel,Central Region,Accra,2019,4,30
 2019-04-30,QL2/31,Coastal Quarry Limited,Restricted Mining Lease,Active License,Granite,Western Region,Sekondi Takoradi,2019,4,30
@@ -1779,7 +1779,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2018-06-12,ML6/7,Kibi Goldfields Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2018,6,12
 2018-06-11,PL10/19,Azumah Resources Ghana Limited,Prospecting Licence,Under Review,Gold,Upper West Region,Daffiama_Busie_Issa,2018,6,11
 2018-06-05,PL6/131,Westchester Resources Limited,Mining Lease,Active License,Gold,Ashanti Region,Kumasi,2018,6,5
-2018-03-01,PL5/152L,Fgm Resources Ghana Limited,Mining Lease,Active License,"Gold, .",Eastern Region,Birim North,2018,3,1
+2018-03-01,PL5/152L,Fgm Resources Ghana Limited,Mining Lease,Active License,Gold,Eastern Region,Birim North,2018,3,1
 2017-12-22,PL8/27,Savanna Cement Company Limited,Mining Lease,Active License,Limestone,Bono East Region,Damango,2017,12,22
 2017-12-22,PL8/27,Savanna Cement Company Limited,Mining Lease,Active License,Limestone,Savannah Region,Damango,2017,12,22
 2017-10-19,QL-1/1001,Messaike & Sabbagh Company Limited,Restricted Mining Lease,Active License,Granite,Greater Accra Region,Cape Coast,2017,10,19
@@ -1809,8 +1809,8 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2016-08-16,PL3/32(Mampon),Fgr Bogoso Prestea Limited,Mining Lease,Active License,Gold,Central Region,Wassa Amenfi East,2016,8,16
 2016-05-16,PL2/454,Gem Global Ventures Limited,Mining Lease,Active License,Iron Ore,Western Region,Cape Coast,2016,5,16
 2016-05-16,PL2/454,Gem Global Ventures Limited,Mining Lease,Active License,Iron Ore,Central Region,Cape Coast,2016,5,16
-2016-05-11,PL6/348,Microstar Mines & Minerals Limited,Mining Lease,Active License,"Gold, .",Ashanti Region,Ahafo Ano North,2016,5,11
-2016-05-11,RL6/132,Microstar Mines & Minerals Limited,Mining Lease,Active License,"Gold, .",Ashanti Region,Ahafo Ano North,2016,5,11
+2016-05-11,PL6/348,Microstar Mines & Minerals Limited,Mining Lease,Active License,Gold,Ashanti Region,Ahafo Ano North,2016,5,11
+2016-05-11,RL6/132,Microstar Mines & Minerals Limited,Mining Lease,Active License,Gold,Ashanti Region,Ahafo Ano North,2016,5,11
 2016-05-11,RL6/131,Crescent Metals & Minerals Ghana Limited(Formerly Lone Island Inv. Ltd),Mining Lease,Active License,Gold,Ashanti Region,Ahafo Ano North,2016,5,11
 2016-05-11,PL6/321 (Edwenase),Emerald Mining Ventures Limited,Mining Lease,Active License,Gold,Ashanti Region,Amansie Central,2016,5,11
 2016-05-05,PL2/50 (Nkroful),Adamus Resources Limited,Mining Lease,Active License,Gold,Western Region,Nzema East,2016,5,5
@@ -1823,7 +1823,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2014-11-25,PL-10/4 (Collete),Phoenix Resources Limited,Prospecting Licence,Under Review,Gold,Upper West Region,Wa,2014,11,25
 2014-07-18,PL10/43,Phoenix Resources Limited,Prospecting Licence,Under Review,Gold,Upper West Region,Lambussie-Karni,2014,7,18
 2014-07-10,PL10/37,Upwest Resources Limited Company(Formly Azumah Resources Limited),Prospecting Licence,Under Review,Gold,Upper West Region,Wa,2014,7,10
-2014-07-08,RL6/154,Angel Royal Gold Mines Limited,Prospecting Licence,Under Review,"Gold, .",Ashanti Region,Kumasi,2014,7,8
+2014-07-08,RL6/154,Angel Royal Gold Mines Limited,Prospecting Licence,Under Review,Gold,Ashanti Region,Kumasi,2014,7,8
 2014-05-19,RL10/11 (Kunche/Bepkong),Azumah Resources Ghana Limited,Mining Lease,Active License,Gold,Upper West Region,Wa East,2014,5,19
 2014-04-22,PL10/14,Upwest Resources Limited Company(Formly Azumah Resources Limited),Prospecting Licence,Under Review,Gold,Upper West Region,Wa,2014,4,22
 2014-01-24,WR/316,Abdul Samadu/Peter Prah,Small Scale Licence,Under Review,Gold,Western Region,Sekondi Takoradi,2014,1,24
@@ -1839,7 +1839,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 2011-12-08,PL8/34,Emmaland Resources Limited,Restricted Prospecting License,Active License,"Iron Ore, .",Northern Region,Zabzugu,2011,12,8
 2011-07-12,PL10/33,Carlie Mining Limited,Reconnaissance Licence,Under Review,Gold,Savannah Region,Damango,2011,7,12
 2011-07-12,PL10/28,Carlie Mining Limited,Reconnaissance Licence,Under Review,Gold,Savannah Region,Damango,2011,7,12
-2011-01-06,PL5/212 (Muoso),Xtra Gold Mining Limited,Mining Lease,Active License,"., Gold",Eastern Region,Atiwa,2011,1,6
+2011-01-06,PL5/212 (Muoso),Xtra Gold Mining Limited,Mining Lease,Active License,Gold,Eastern Region,Atiwa,2011,1,6
 2010-01-19,PL5/126 (Akyem East),Newmont Golden Ridge Limited,Mining Lease,Active License,Gold,Eastern Region,Koforidua,2010,1,19
 2008-09-18,Assigned,Mc Under Review,Mining Lease,Under Review,Gold,Ashanti Region,Kumasi,2008,9,18
 2008-09-18,Assigned,Mc Under Review,Mining Lease,Under Review,Gold,Central Region,Kumasi,2008,9,18
@@ -1868,7 +1868,7 @@ start_date,license_code,owner,license_type,status,minerals,region_of_operation,d
 1997-05-19,ML2/169,Asante Gold Bibiani Limited,Mining Lease,Active License,Gold,Ashanti Region,Kumasi,1997,5,19
 1997-05-19,ML2/169,Asante Gold Bibiani Limited,Mining Lease,Active License,Gold,Western North Region,Kumasi,1997,5,19
 1997-05-19,PL2/15 (Bibiani),Asante Gold Bibiani Limited,Mining Lease,Active License,Gold,Western Region,Bibiani/Anwiaso/Bekwai,1997,5,19
-1997-04-18,PL2/156 (Tarkwa 4),Gold Fields Ghana Limited,Mining Lease,Active License,"., Gold",Western Region,Wassa Amenfi West,1997,4,18
+1997-04-18,PL2/156 (Tarkwa 4),Gold Fields Ghana Limited,Mining Lease,Active License,Gold,Western Region,Wassa Amenfi West,1997,4,18
 1997-04-18,PL2/156 (Tarkwa 3),Gold Fields Ghana Limited,Mining Lease,Active License,Gold,Western Region,Wassa West,1997,4,18
 1997-04-18,PL2/156 (Tarkwa 2),Gold Fields Ghana Limited,Mining Lease,Active License,Gold,Western Region,Wassa West,1997,4,18
 1997-04-18,PL2/156 (Abosso),Gold Fields Ghana Limited,Mining Lease,Active License,Gold,Western Region,Wassa West,1997,4,18
